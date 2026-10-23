@@ -1,0 +1,4 @@
+firstName,email,phone,lastName,gender,state,city,address
+Karthik,karthik@example.com,9876543210,Raj,male,Tamil Nadu,Salem,Sample address 1
+Priya,priya@example.com,9876543211,Sharma,female,Tamil Nadu,Chennai,Sample address 2
+Arun,arun@example.com,9876543212,Kumar,male,Tamil Nadu,Coimbatore,Sample address 3

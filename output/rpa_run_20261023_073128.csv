@@ -1,0 +1,4 @@
+record_number,name,email,status,message,timestamp
+1,RPA Demo One,rpa.demo.one@example.com,NEEDS_CONFIGURATION,"Update config.json with actual CSS selectors for CSV columns, submit button, and success message before running submissions.",2026-10-23T07:31:28
+2,RPA Demo Two,rpa.demo.two@example.com,NEEDS_CONFIGURATION,"Update config.json with actual CSS selectors for CSV columns, submit button, and success message before running submissions.",2026-10-23T07:31:28
+3,RPA Demo Three,rpa.demo.three@example.com,NEEDS_CONFIGURATION,"Update config.json with actual CSS selectors for CSV columns, submit button, and success message before running submissions.",2026-10-23T07:31:28

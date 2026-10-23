@@ -1,0 +1,25 @@
+{
+  "headless_env_var": "HEADLESS",
+  "login": {
+    "url": "https://practicetestautomation.com/practice-test-login/",
+    "username": "student",
+    "password": "Password123",
+    "username_selector": "#username",
+    "password_selector": "#password",
+    "submit_selector": "#submit",
+    "success_url_contains": "/logged-in-successfully/"
+  },
+  "forms": {
+    "url": "https://jstestingacademy.co.in/qa-demo/",
+    "dry_run": true,
+    "form_fields": {
+      "name": "REPLACE_WITH_ACTUAL_CSS_SELECTOR",
+      "email": "REPLACE_WITH_ACTUAL_CSS_SELECTOR",
+      "phone": "REPLACE_WITH_ACTUAL_CSS_SELECTOR"
+    },
+    "submit_selector": "REPLACE_WITH_ACTUAL_SUBMIT_BUTTON_SELECTOR",
+    "success_selector": "REPLACE_WITH_ACTUAL_SUCCESS_MESSAGE_SELECTOR",
+    "success_text_contains": "REPLACE_WITH_SUCCESS_TEXT",
+    "wait_seconds": 12
+  }
+}

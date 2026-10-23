@@ -1,0 +1,37 @@
+record_number,firstName,lastName,email,status,message,timestamp
+1,Karthik,Raj,karthik@example.com,SUBMITTED,"Thanks for submitting the form
+Name Karthik Raj
+Email karthik@example.com
+Gender Male
+Mobile 9876543210
+Date of Birth Not provided
+Subjects None
+Hobbies None
+Picture Not uploaded
+Address Sample address 1
+State and City Tamil Nadu Salem
+Close",2026-10-23T07:51:56
+2,Priya,Sharma,priya@example.com,SUBMITTED,"Thanks for submitting the form
+Name Priya Sharma
+Email priya@example.com
+Gender Female
+Mobile 9876543211
+Date of Birth Not provided
+Subjects None
+Hobbies None
+Picture Not uploaded
+Address Sample address 2
+State and City Tamil Nadu Chennai
+Close",2026-10-23T07:51:57
+3,Arun,Kumar,arun@example.com,SUBMITTED,"Thanks for submitting the form
+Name Arun Kumar
+Email arun@example.com
+Gender Male
+Mobile 9876543212
+Date of Birth Not provided
+Subjects None
+Hobbies None
+Picture Not uploaded
+Address Sample address 3
+State and City Tamil Nadu Coimbatore
+Close",2026-10-23T07:51:57

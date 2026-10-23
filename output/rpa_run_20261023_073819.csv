@@ -1,0 +1,4 @@
+record_number,firstName,lastName,email,status,message,timestamp
+1,,,,ERROR,KeyError: 'firstName' | screenshot=error_record_1.png,2026-10-23T07:38:18
+2,,,,ERROR,KeyError: 'firstName' | screenshot=error_record_2.png,2026-10-23T07:38:19
+3,,,,ERROR,KeyError: 'firstName' | screenshot=error_record_3.png,2026-10-23T07:38:19
